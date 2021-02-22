@@ -29,4 +29,4 @@ Encode-De-Code was designed to be a extensive python Data Science module used to
 
 
 
-#### *To Contribute to this Project feel free to post a pull request or contact me here or on __Discord__* __ @Kayaba#5276 __
+#### *To Contribute to this Project feel free to post a pull request or contact me here or on __Discord__* **@Kayaba#5276**
