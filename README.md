@@ -7,13 +7,13 @@ Encode-De-Code was designed to be a extensive python Data Science module used to
 
 ## Features
 
-1.Conversion from Base form to intiger forms.
-2. Converts Intigers and floating point numbers to varius bases/data represenations.
-3. Conversion from Base to Base.
-4. Easy to Use.
-5. Simple Coding Scheme.
-6. Customizable to fit the needs of Computer Scientists.
-7. Well Documented Feature List.
+* Conversion from Base form to intiger forms.
+* Converts Intigers and floating point numbers to varius bases/data represenations.
+* Conversion from Base to Base.
+* Easy to Use.
+* Simple Coding Scheme.
+* Customizable to fit the needs of Computer Scientists.
+* Well Documented Feature List.
 
 
 
