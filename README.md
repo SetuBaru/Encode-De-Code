@@ -12,7 +12,7 @@ Encode-De-Code was designed to be a extensive python Data Science module used to
 6. Customizable to fit the needs of Computer Scientists.
 7. Well Documented Feature List.
 
-###Progress
+######Progress
 - [x] Completed ```to_num()``` function which converts base values to int.
 - [ ] ```to_base``` function to convert number values to base values.
 - [ ] Created Main.py
@@ -21,4 +21,4 @@ Encode-De-Code was designed to be a extensive python Data Science module used to
 - [ ] Testing and Implementing Bug Fixes
 - [ ] Public Release
 
-####*To Contribute to this Project feel free to post a pull request or contact me here or on *Discord***__@Kayaba#5276__
+######*To Contribute to this Project feel free to post a pull request or contact me here or on *Discord***__@Kayaba#5276__
