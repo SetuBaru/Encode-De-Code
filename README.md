@@ -22,13 +22,13 @@ Encode-De-Code was designed to be a extensive python Data Science module used to
 
 ### Progress
 
-- [x] Completed ```to_num()``` function which converts base values to int.
-- [ ] ```to_base``` function to convert number values to base values.
-- [ ] Created Main.py
-- [ ] Work on API / Documention
-- [ ] PreRelease
-- [ ] Testing and Implementing Bug Fixes
-- [ ] Public Release
+- [x]   Completed ```to_num()``` function which converts base values to int.
+- [ ]   ```to_base``` function to convert number values to base values.
+- [ ]   Created Main.py
+- [ ]   Work on API / Documention
+- [ ]   PreRelease
+- [ ]   Testing and Implementing Bug Fixes
+- [ ]   Public Release
 
 
 
