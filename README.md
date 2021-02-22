@@ -1,19 +1,22 @@
-# encode-de-code
+# Encode-De-Code
 
 ## OverView
+
 Encode-De-Code was designed to be a extensive python Data Science module used to manipulate data in varius formats and follow mathematical based logic and rules.
+
 
 
 
 ## Features
 
-* Conversion from Base form to intiger forms.
-* Converts Intigers and floating point numbers to varius bases/data represenations.
-* Conversion from Base to Base.
-* Easy to Use.
-* Simple Coding Scheme.
-* Customizable to fit the needs of Computer Scientists.
-* Well Documented Feature List.
+*   Conversion from Base form to intiger forms.
+*   Converts Intigers and floating point numbers to varius bases/data represenations.
+*   Conversion from Base to Base.
+*   Easy to Use.
+*   Simple Coding Scheme.
+*   Customizable to fit the needs of Computer Scientists.
+*   Well Documented Feature List.
+
 
 
 
@@ -26,6 +29,8 @@ Encode-De-Code was designed to be a extensive python Data Science module used to
 - [ ] PreRelease
 - [ ] Testing and Implementing Bug Fixes
 - [ ] Public Release
+
+
 
 
 
