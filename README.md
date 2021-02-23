@@ -1,34 +1,54 @@
-# Encode-De-Code
+# Cryptic
+
+
+
+
+
+
+
 
 ## OverView
 
-Encode-De-Code was designed to be a extensive python Data Science module used to manipulate data in varius formats and follow mathematical based logic and rules.
-
+_Cryptec is disgned to be The Modern Cryptoligist's go to tool. It provides all the essential features to either break or make an encryption. This Toolkit provides users with open source Authentication through an intuitive user friendly interface._
 
 
 
 ## Features
 
-*   Conversion from Base form to intiger forms.
-*   Converts Intigers and floating point numbers to varius bases/data represenations.
-*   Conversion from Base to Base.
-*   Easy to Use.
-*   Simple Coding Scheme.
-*   Customizable to fit the needs of Computer Scientists.
-*   Well Documented Feature List.
+*   Encoding and Decoding Information.
+*   Extensive and Customizable Encoding Options.
+*   Providing basic and High level Encryption.
+*   Provides asymmetric Encryption for all your Keys.
+*   Includes symmetric Encryption.
+*   Friendly UI
+*   Open Source Libary.
+*   Customizable Source Code.
+*   Customizable Encoding / Decoding algorithm scheme.
 
 
 
 
-### Progress
+## Progress
 
-- [x]   Completed ```to_num()``` function which converts base values to int.
-- [ ]   ```to_base``` function to convert number values to base values.
-- [ ]   Created Main.py
+- [ ] Find Team Members.                _Current Team Count_: **1**
+
+- [x]   Completed ```to_num()``` function which converts base values to intiger. _Currently Supporting Supporting 6 Base Types._
+
+- [x]   ```to_base``` function which converts intiger values to Base Values.  _Currently Supporting 6 Base Types._
+ 
+- [ ]   Work on Encrypion methods and implementing base Encrypion Logic
+
+- [ ]   Work on Decryption methods and types of decryption Attacks.
+
+- [ ]   Create UI.
+
 - [ ]   Work on API / Documention
+
 - [ ]   PreRelease
+
 - [ ]   Testing and Implementing Bug Fixes
-- [ ]   Public Release
+
+- [ ]   Public Release.
 
 
 
