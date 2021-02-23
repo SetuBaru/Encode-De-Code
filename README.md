@@ -1,4 +1,11 @@
-# cryptec
+# Cryptic
+
+
+
+
+
+
+
 
 ## OverView
 
@@ -21,7 +28,7 @@ _Cryptec is disgned to be The Modern Cryptoligist's go to tool. It provides all 
 
 
 
-### Progress
+## Progress
 
 - [ ] Find Team Members.                _Current Team Count_: **1**
 
