@@ -60,7 +60,7 @@ def to_int(value,base):                             #Value = 'Base form Input' /
         for i in value:
             if i in base128.keys():
                 count-=1
-                output=output+base128[i]*(64**count)
+                output=output+base128[i]*(128**count)
 
     return output       #Function returns Intiger as output
 
