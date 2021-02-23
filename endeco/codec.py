@@ -18,7 +18,7 @@ def to_int(value,base):                             #Value = 'Base form Input' /
 
     value=str(value)                                #To Allow with value as a sequence.
     base=str(base).lower()                          #Input Formatting
-    output=-1                                       #Initializing int output at 0
+    output=0                                        #Initializing int output at 0
     count=len(value)                                #Counting the Length of the now string 'Value'.
 
 #Different Base Type Detection
@@ -120,7 +120,4 @@ def to_base(value,base):                #Function Takes in intiger Value and des
             base128_key=_reversed_base128[remainder]
             answer=str(base128_key)+answer
     return answer
-x='118534861'
-print(f'Input:  {x} ')
-print(f'Base Value:  {to_base(x,64)}')
 
