@@ -34,7 +34,6 @@ def encrypt(keystring,msg='Message.txt'):
     else:
         message=str(msg)
 
-
 #Next >>> Breaking Up The Message into Bytes.
 
     ##Breaking Message into ASCII Character Positions and int equivelent.
@@ -76,6 +75,15 @@ def encrypt(keystring,msg='Message.txt'):
 #Return Function to return Encrypted Message
     return encrypted_message
 
-# **Function Execution**
-x=encrypt('M@ster_HACKer-2020','Message.txt')
-print(x)
+'''
+To call function use encrypt()
+The Function takes 2 arguements
+The first is the ASCII Keystring 
+that will be used to encrypt the
+files and the second is the msg
+or file to be encrypted this will
+return an encrypted file, the same
+function and key can then be used
+to decrypt the encrypted message.
+eg: encrypt(keystring, message)
+'''
